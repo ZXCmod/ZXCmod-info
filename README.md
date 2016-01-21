@@ -3,10 +3,10 @@
 ###Official links
 
   - Official community: https://vk.com/zxcmod
-  - Official site (dead): http://zxcmod.com/
+  - Official site (dead): ~~http://zxcmod.com/~~
   - Official blog (dead): http://half-life-zxc.blogspot.com/
   - ModDB (only 1.33 & 1.34): http://www.moddb.com/mods/zxc-mod-133
-  - ICQ address: 56-36-56-428
+  - ICQ address: `56-36-56-428`
 
 
 ###Non-Official links
